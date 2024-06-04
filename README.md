@@ -15,8 +15,8 @@ Visualized the data using scatterplot.
 Created a PCA model instance.
 Retrieved the explained variance. 
 Found the Best Value for k Using the PCA Data.
-Visualized the data using a scatter plot, hvPlot.
-Determined the Weights of Each Feature on each Principal Component by creating a dataframe and using the columns from the original scaled DataFrame as the index. - I was having trouoble with this part of the challenge and could not figure it out on time. 
+Visualized  the data using a scatter plot, hvPlot.
+Determined the Weights of Each Feature on each Principal Component by creating a dataframe and using the columns from the original scaled DataFrame as the index. - I was having trouble with this part of the challenge and could not figure it out on time. 
 
 My resources: 
 Past activities.
