@@ -21,5 +21,5 @@ Determined the Weights of Each Feature on each Principal Component by creating a
 My resources: 
 Past activities.
 Tutor.
-TA's
-Chat gpt
+TA's.
+Chat gpt.
